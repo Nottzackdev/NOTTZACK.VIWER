@@ -1,4 +1,4 @@
-# do not spam or it will kill devices and ruin fun for others
+
 
 import base64
 from pystyle import *
